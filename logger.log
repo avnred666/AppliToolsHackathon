@@ -1,0 +1,60 @@
+2019-11-10 20:59:02 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Software caused connection abort: connect
+2019-11-10 20:59:02 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:02 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:02 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:02 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:02 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:02 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:02 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:02 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:02 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:02 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:02 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:02 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:02 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:02 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:02 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:02 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:02 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:02 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443
+2019-11-10 20:59:03 INFO  RetryExec:97 - I/O exception (java.net.SocketException) caught when processing request to {s}->https://eyesapi.applitools.com:443: Network is unreachable: connect
+2019-11-10 20:59:03 INFO  RetryExec:113 - Retrying request to {s}->https://eyesapi.applitools.com:443

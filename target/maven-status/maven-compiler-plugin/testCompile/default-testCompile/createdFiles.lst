@@ -1,0 +1,12 @@
+SeleniumTests\CanvasChartTraditionalTests.class
+ApplitoolsTests\CanvasChartVisualAITests.class
+ApplitoolsTests\DynamicContentVisualAITests.class
+SeleniumTests\DataDrivenTestTraditionalTests.class
+SeleniumTests\DynamicContentTraditionalTests.class
+ApplitoolsTests\TableSortVisualAITests.class
+SeleniumTests\TableSortTraditionalTests.class
+SeleniumTests\UIElementsTraditionalTests.class
+ApplitoolsTests\UIElementsVisualAITests.class
+ApplitoolsTests\TestBaseVisualAITests.class
+ApplitoolsTests\DataDrivenVisualAITests.class
+SeleniumTests\TestBase.class

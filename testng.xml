@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Applitools Hackathon Selenium Test Suite">
+    <parameter name="browser" value="chrome"></parameter>
+    <test name="Selenium Tests" preserve-order="true">
+        <classes>
+            <class name="SeleniumTests.UIElementsTraditionalTests"/>
+            <class name="SeleniumTests.DataDrivenTestTraditionalTests"/>
+            <class name="SeleniumTests.TableSortTraditionalTests"/>
+            <class name="SeleniumTests.CanvasChartTraditionalTests"/>
+            <class name="SeleniumTests.DynamicContentTraditionalTests"/>
+        </classes>
+    </test>
+</suite>

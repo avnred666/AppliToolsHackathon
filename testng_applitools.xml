@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Applitools Hackathon Applitools Test Suite">
+    <parameter name="browser" value="chrome"></parameter>
+    <test name="AppliTools Tests" preserve-order="true">
+        <classes>
+            <class name="ApplitoolsTests.UIElementsVisualAITests" />
+            <class name="ApplitoolsTests.DataDrivenVisualAITests" />
+            <class name="ApplitoolsTests.TableSortVisualAITests" />
+            <class name="ApplitoolsTests.CanvasChartVisualAITests" />
+            <class name="ApplitoolsTests.DynamicContentVisualAITests" />
+        </classes>
+    </test>
+</suite>
