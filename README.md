@@ -47,6 +47,7 @@ testng_applitools.xml - Visual AI Tests
 2. To execute Traditional Tests use maven command 
 
 mvn clean test -Ptraditional
+
 3. To execute Traditional Tests use maven command 
 
 mvn clean test -Papplitools
