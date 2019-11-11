@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: TestSuite
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 256.251 s <<< FAILURE! - in TestSuite
-closeAppliTools(ApplitoolsTests.DynamicContentVisualAITests)  Time elapsed: 105.616 s  <<< FAILURE!
-com.applitools.eyes.exceptions.DiffsFoundException: Test 'Dynamic Content Visual AI Test' of 'Hackathon App' detected differences! See details at: https://eyes.applitools.com/app/batches/00000251828813059105/00000251828813057867?accountId=T8r4Qx05mkmicH8eYB4Xzg~~
-
