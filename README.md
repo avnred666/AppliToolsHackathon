@@ -29,11 +29,11 @@ DynamicContentTraditionalTests.java - Testcase 5: Dynamic Content Test
 ```bash
 AppliTools Tests: src/test/java/ApplitoolsTests
 TestBaseVisualAITests.java - Initialize Applitools 
-UIElementsVisualAITests.java - Test case 1:Login Page UI Elements Test
-DataDrivenVisualAITests.java - Test case 2: Data-Driven Test
-TableSortVisualAITests.java - Test case 3: Table Sort Test
-CanvasChartVisualAITests.java - Test case 4: Canvas Chart Test
-DynamicContentVisualAITests.java - Test case 5: Dynamic Content Test
+UIElementsVisualAITests.java - Testcase 1:Login Page UI Elements Test
+DataDrivenVisualAITests.java - Testcase 2: Data-Driven Test
+TableSortVisualAITests.java - Testcase 3: Table Sort Test
+CanvasChartVisualAITests.java - Testcase 4: Canvas Chart Test
+DynamicContentVisualAITests.java - Testcase 5: Dynamic Content Test
 ```
 
 ```bash
