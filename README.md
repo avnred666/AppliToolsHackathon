@@ -37,5 +37,5 @@
 - To execute Traditional Tests use maven command 
 **mvn clean test -Papplitools**
 
-##AppliTools Test Results for V2
+## AppliTools Test Results for V2
 - Please find the applitools test results at: https://eyes.applitools.com/app/test-results/00000251828773739668/?accountId=T8r4Qx05mkmicH8eYB4Xzg~~
