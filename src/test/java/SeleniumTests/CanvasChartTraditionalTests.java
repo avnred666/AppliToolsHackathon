@@ -11,7 +11,7 @@ public class CanvasChartTraditionalTests extends TestBase {
      * if the chart is still present after clicking on Show next year data.
      */
     public void verifyCanvasChart() {
-        driver.get("appURLV1");
+        driver.get(appURLV1);
         login.loginForm("test", "test");
         home.clickCompareExpenses();
         Assert.assertTrue(chart.isChartAvailable(), "Compare Expenses chart is not present on the page");

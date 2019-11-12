@@ -11,7 +11,7 @@ public class DataDrivenTestTraditionalTests extends TestBase {
      * of credentials returns an error message
      */
     public void testLoginMessages() {
-        driver.get("appURLV1");
+        driver.get(appURLV1);
         Assert.assertEquals(login.loginForm("", ""), "Both Username and Password must be present", "Error message incorrect when username and password is missing");
         Assert.assertEquals(login.loginForm("test", ""), "Password must be present", "Error message incorrect when password is missing");
         login.usernameInput.clear();

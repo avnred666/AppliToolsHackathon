@@ -14,7 +14,7 @@ public class TableSortTraditionalTests extends TestBase {
      */
     public void testTableSort() {
 
-        driver.get("appURLV1");
+        driver.get(appURLV1);
         login.loginForm("test", "test");
 
         HashMap<String, String> beforeSort;

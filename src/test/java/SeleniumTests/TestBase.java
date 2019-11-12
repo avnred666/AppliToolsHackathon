@@ -45,7 +45,7 @@ public class TestBase {
             driver = new ChromeDriver(options);
         }
 
-        driver.get("appURLV1");
+//        driver.get(appURLV1);
 
         login = new LoginPage(driver);
         home = new HomePage(driver);

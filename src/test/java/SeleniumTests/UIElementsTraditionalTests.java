@@ -12,7 +12,7 @@ public class UIElementsTraditionalTests extends TestBase {
      */
     public void testUIElements() {
 
-        driver.get("appURLV1");
+        driver.get(appURLV1);
         SoftAssert softAssert = new SoftAssert();
         softAssert.assertTrue(login.verifyPageHeading(), "Page heading is not available or incorrect");
         softAssert.assertTrue(login.verifyToggleLink(), "Toggle theme option is not enabled or not present on the page");
